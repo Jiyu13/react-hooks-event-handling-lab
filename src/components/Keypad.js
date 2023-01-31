@@ -2,7 +2,9 @@
 
 function Keypad (){
     return (
-        <div></div>
+        <div>
+            <input type="password"></input>
+        </div>
     )
 }
 
